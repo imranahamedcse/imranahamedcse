@@ -12,7 +12,7 @@ I'm **Imran Ahmed**, a passionate software developer from Bangladesh.
 - Tools: MySQL, Git, VS Code
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=imranahmed&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=imranahamedcse&show_icons=true&theme=radical)
 
 ## 🌐 Socials
 - [LinkedIn](https://linkedin.com/in/imranahmed)
