@@ -56,13 +56,11 @@
 <div align="center">
   <!-- BEGIN Snake -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imranahamedcse/imranahamedcse/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imranahamedcse/imranahamedcse/output/snake-light.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/imranahamedcse/imranahamedcse/output/snake-dark.svg" />
+    <img alt="github-snake" src="https://github.com/imranahamedcse/imranahamedcse/raw/output/github-contribution-grid-snake.svg" />
   </picture>
   <!-- END Snake -->
 </div>
 
 ---
 
-Thank you for visiting! 😊  
+Thank you for visiting! 😊
