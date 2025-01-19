@@ -1,3 +1,8 @@
+<h2> Hey there! I'm Abdur Rahim Refat.</h2>
+ <img width="" align="" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
+
+<h3> 👨🏻‍💻 &nbsp;About Me</h3>
 - 👋 Hi, I’m @Imran Ahamed
 - 👀 I’m interested in Remote Job...
 - 🌱 I’m Expert in laravel based web application developer...
@@ -5,11 +10,9 @@
 - 📫 My skype id: imranahamedcse ...
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
 - 💻 &nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
- 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -28,4 +31,3 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello)
   ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=Notion)
   ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=Slack)
-  
