@@ -63,4 +63,34 @@
 
 ---
 
+<h3> 👨🏻‍💻 &nbsp;About Me</h3>
+
+- 👋 Hi, I’m **Imran Ahamed**  
+- 👀 Interested in **Remote Jobs**  
+- 🌱 Expert in **Laravel-based Web Application Development**  
+- 💞️ Looking to collaborate on **innovative projects**  
+- 📫 Reach me via **[Skype](skype:imranahamedcse?chat)**  
+
+---
+
+<h3> 📊 &nbsp;Stats</h3>
+
+- 🌟 **Most Used Languages**  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=imranahamedcse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=imranahamedcse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imranahamedcse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true" height="150" alt="languages graph" />
+  </picture>
+
+---
+
+<h3> 🌟 &nbsp;Contributions</h3>
+
+- 💻 **GitHub Activity**  
+  <picture>
+    <img alt="github-snake" src="https://github.com/imranahamedcse/imranahamedcse/raw/output/github-contribution-grid-snake.svg" />
+  </picture>
+
+---
+
 Thank you for visiting! 😊
