@@ -42,7 +42,7 @@
 - 🌟 **Most Used Languages**  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=imranahamedcse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=imranahamedcse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true" />
+    <source imranahamedcsemedia="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imranahamedcse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true" height="150" alt="languages graph" />
   </picture>
 
@@ -51,7 +51,7 @@
 <h3> 🌟 &nbsp;Contributions</h3>
 
 - 💻 **GitHub Activity**  
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/imranahamedcse/imranahamedcse/blob/output/github-snake-dark.svg)
 
 ---
 
