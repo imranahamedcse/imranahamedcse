@@ -51,9 +51,7 @@
 <h3> 🌟 &nbsp;Contributions</h3>
 
 - 💻 **GitHub Activity**  
-  <picture>
-    <img alt="github-snake" src="https://github.com/imranahamedcse/imranahamedcse/raw/output/github-contribution-grid-snake.svg" />
-  </picture>
+  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 ---
 
