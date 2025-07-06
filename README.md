@@ -1,10 +1,9 @@
 <h3 align="center">👨‍💻 Full-Stack Developer | Laravel & Vue.js Specialist | Enterprise Solutions Expert</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR-LINKEDIN]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/imranahamedcse"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:imranahamed.cse@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="skype:imranahamedcse?chat"><img src="https://img.shields.io/badge/-Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white"/></a>
-  <a href="https://github.com/[YOUR-GITHUB]"><img src="https://img.shields.io/badge/-Portfolio-3423A2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://imranahamedcse.github.io"><img src="https://img.shields.io/badge/-Portfolio-3423A2?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 ---
@@ -80,9 +79,8 @@
 
 ### 📫 Let's Connect!
 - 💌 **Email**: imranahamed.cse@gmail.com
-- 💬 **Skype**: [imranahamedcse](skype:imranahamedcse?chat)
-- 🌐 **Portfolio**: [Your Portfolio Link]
-- 🔗 **LinkedIn**: [Your LinkedIn Profile]
+- 🌐 **Portfolio**: https://imranahamedcse.github.io
+- 🔗 **LinkedIn**: https://linkedin.com/in/imranahamedcse
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github&label=Profile%20views&color=0e75b6&style=flat" alt="your-github" />
